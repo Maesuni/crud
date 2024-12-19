@@ -2,8 +2,8 @@
 // Database connection using PDO
 $host = 'localhost'; // MySQL server
 $dbname = 'tasks'; // Database name
-$username = 'root'; // MySQL username (default in XAMPP is 'root')
-$password = ''; // MySQL password (default is empty for XAMPP)
+$username = 'mae'; // MySQL username (default in XAMPP is 'root')
+$password = 'almonia12345'; // MySQL password (default is empty for XAMPP)
 
 try {
     // Establish a PDO connection
